@@ -15,6 +15,10 @@
 This project explores the IBM HR Analytics Employee Attrition dataset using Power BI to identify patterns and insights related to employee turnover.
 
 
+<img width="626" height="328" alt="sceen" src="https://github.com/user-attachments/assets/0dfaf3df-dc7e-4bc7-b362-fd7074168d6d" />
+<img width="586" height="329" alt="Screenshot 2025-07-23 130643" src="https://github.com/user-attachments/assets/e3aea23d-1eb0-4273-a378-daaa53536acf" />
+
+
 ### Objectives
 To explore patterns in employee turnover, calculate attrition rates by role,Gender,Age Group,Department,Work-life balance,Years at comapany,Monthly income and provide actionable insights using data visualization.
 
